@@ -2,7 +2,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-# Heart Data Analysis
+# Heart Conditions Data Analysis
 
 Investigation of factors that contribute to heart conditions using keras (artifical neural networks)
 
